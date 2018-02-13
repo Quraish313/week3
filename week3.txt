@@ -1,0 +1,11 @@
+#!/bin/bash
+Nano Matt
+ls-l
+Echo Matt>/dev/null
+Cd /dev
+Find Matt
+Cat if=/dev/matt of=hi bs=1
+Count=3
+Cat/dev/null>Matt
+Blkid
+Blkid-po udev/dev/loop0
